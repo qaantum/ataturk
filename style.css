@@ -1,0 +1,26 @@
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+}
+ul {
+  text-align: center;
+}
+#img-div {
+  
+  display: block;
+  align-self: center;
+}
+#image {
+  max-width: 50%;
+  display: block;
+  align-self: center;
+  margin: auto;
+}
